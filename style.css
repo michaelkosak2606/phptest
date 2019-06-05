@@ -1,0 +1,12 @@
+.brand{
+    background: #cbb09c !important;
+}
+.brand-text{
+    color: #cbb09c !important;
+}
+footer{
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+}
